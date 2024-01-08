@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T08:28:24.702Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" version="22.1.17" etag="kpA9c0Ui4iBMz0Ev0x88" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-08T08:37:17.737Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="jW8No_rUCeZVc7t_f0C8" version="22.1.17" type="github">
   <diagram name="Page-1" id="p_PMgQPlf6-vGvT3pBbs">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XQDlyD4wbLP7uFr0ZUoT-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Log_Analytics_Workspaces.svg;" vertex="1" parent="1">
+          <mxGeometry x="425" y="310" width="134" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="XQDlyD4wbLP7uFr0ZUoT-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" vertex="1" parent="1">
+          <mxGeometry x="350" y="660" width="48" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="XQDlyD4wbLP7uFr0ZUoT-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;" vertex="1" parent="1">
+          <mxGeometry x="440" y="654" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XQDlyD4wbLP7uFr0ZUoT-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;" vertex="1" parent="1">
+          <mxGeometry x="550" y="652" width="85" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="XQDlyD4wbLP7uFr0ZUoT-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;" vertex="1" parent="1">
+          <mxGeometry x="243" y="652" width="70" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="XQDlyD4wbLP7uFr0ZUoT-6" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Sentinel.svg;" vertex="1" parent="1">
+          <mxGeometry x="161.29000000000002" y="270" width="126.72" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="XQDlyD4wbLP7uFr0ZUoT-8" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Activity_Log.svg;" vertex="1" parent="1">
+          <mxGeometry x="250" y="550" width="56.00000000000001" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="XQDlyD4wbLP7uFr0ZUoT-9" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Network_Security_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="430" y="690" width="31.29" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="XQDlyD4wbLP7uFr0ZUoT-10" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Network_Security_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="540" y="690" width="31.29" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="XQDlyD4wbLP7uFr0ZUoT-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_blob;" vertex="1" parent="1">
+          <mxGeometry x="60" y="675" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="XQDlyD4wbLP7uFr0ZUoT-12" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;" vertex="1" parent="1">
+          <mxGeometry x="670" y="652" width="68" height="68" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
