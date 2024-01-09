@@ -30,7 +30,7 @@ Azure Sentinel continued to be key in maintaining a proactive security stance. T
 
 ## NIST 800-61
 
-In alignment with NIST 800-61 guidelines, a systematic approach to incident handling was meticulously followed. The preparedness phase involved the logging of relevant logs into the Log Analytics workspace, establishing a foundation for effective incident detection and analysis. During the detection and analysis phase, incident severity, status, and ownership were diligently managed to ensure a swift and targeted response.
+In alignment with NIST 800-61 guidelines, a systematic approach to incident handling was followed. The preparedness phase involved the logging of relevant logs into the Log Analytics workspace, establishing a foundation for effective incident detection and analysis. During the detection and analysis phase, incident severity, status, and ownership were diligently managed to ensure a swift and targeted response.
 
 Subsequent stages, encompassing containment, eradication, and recovery, were executed with the implementation of a customized response playbook. This proactive approach facilitated the containment of incidents, eradication of threats, and the subsequent recovery of affected systems. Finally, in the post-incident activity phase, meticulous documentation of findings took place, and incidents were systematically closed within Microsoft Sentinel. This comprehensive adherence to NIST 800-61 guidelines not only ensures a structured response to security incidents but also contributes to continuous improvement in incident management practices within the Azure environment.
 
