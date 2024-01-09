@@ -73,7 +73,7 @@ The following table shows the metrics we measured in our environment for another
 | ------------------------ | -----
 | SecurityEvent            | 8778
 | Syslog                   | 25
-| SecurityAlert            | 0
+| SecurityAlert            | 1
 | SecurityIncident         | 0
 | AzureNetworkAnalytics_CL | 0
 
